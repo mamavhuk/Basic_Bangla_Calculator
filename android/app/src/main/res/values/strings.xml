@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">বাংলা ক্যালকুলেটর</string>
+    <string name="title_activity_main">বাংলা ক্যালকুলেটর</string>
+    <string name="package_name">com.bangla.glasscalc</string>
+    <string name="custom_url_scheme">com.bangla.glasscalc</string>
+</resources>
